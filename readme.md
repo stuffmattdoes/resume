@@ -16,7 +16,7 @@ I am not looking for a management position, nor to spend most of my time in meet
 
 ### Senior Software Engineer - *CarMax*
 ##### 📆 June 2017 - Present	📍 Richmond, VA
-I was hired as part of a team that brought e-commerce capability to CarMax. So far I have contributed to two of the most vital teams within CarMax:
+I was hired as part of a team that enabled CarMax to sell cars online. So far I have contributed to two of the most vital teams within CarMax:
 - **MyCarMax team** - built UI & APIs for user-specific interaction, such as vehicle order status, saved cars, saved searches, profile information, and more. This can be thought of as the user's homepage or dashboard. I consider this team at the epicenter of CarMax micro-services as it consumes many dozens of other teams' APIs.
 - **Checkout team** - responsible for progressing a user through the car-buying process, ranging from retrieving vehicle history reports, guiding a user through selling their vehicle to CarMax, filing financing applications & returning results, warranty selections, and so on. This is a large codebase with complex needs that also relies on consuming dozens of micro-services. I thoroughly pushed our mock services & end-to-end testing here, as this experience is critical to CarMax making money.
 
