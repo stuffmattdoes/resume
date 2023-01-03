@@ -14,7 +14,7 @@ I am not looking for a management position, nor to spend most of my time in meet
 
 ## 📚 Experience
 
-### ==Senior Software Engineer - *CarMax*==
+### Senior Software Engineer - *CarMax*
 ##### 📆 June 2017 - Present	📍 Richmond, VA
 I was hired as part of a team that brought e-commerce capability to CarMax. So far I have contributed to two of the most vital teams within CarMax:
 - **MyCarMax team** - built UI & APIs for user-specific interaction, such as vehicle order status, saved cars, saved searches, profile information, and more. This can be thought of as the user's homepage or dashboard. I consider this team at the epicenter of CarMax micro-services as it consumes many dozens of other teams' APIs.
@@ -39,7 +39,7 @@ I was hired as part of a team that brought e-commerce capability to CarMax. So f
 
 >**✍️ Skills:** TypeScript · React · Jest · C# · DotNet · Azure Dev Ops · Browserstack · Cypress · "micro-services"
 
-### ==Creative Engineer - *Purple, Rock, Scissors*==
+### Creative Engineer - *Purple, Rock, Scissors*
 ##### 📆 Mar 2015 - May 2017 📍 Orlando, FL
 At Purple, Rock, Scissors, I deigned, developed and maintained original web properties for our numerous clients - ranging from local restaurants to national healthcare providers and even major social media giants. These web properties were often custom dynamic websites built around Wordpress or Drupal. Over my tenure here, I shifted from half design & development to doing solely development as I had found my niche in solving technical problems. In addition to being a technical resource, I worked closely with my project managers and often directly assisted clients as a technical consultant. I excelled at handling shifting business requirements as well as working under pressure and meeting deadlines.
 
@@ -50,7 +50,7 @@ At Purple, Rock, Scissors, I deigned, developed and maintained original web prop
 
 >**✍️ Skills:**  HTML · CSS · SASS · Javascript · JQuery · Vagrant · Wordpress · MySQL · PHP · LAMP/LEMP stack · UX/UI design · Gulp
 
-### ==Front-End Designer & Developer - *Ascentus*==
+### Front-End Designer & Developer - *Ascentus*
 ##### 📆 Feb 2013 - Feb 2015 📍 Orlando, FL
 
 I was initially hired as an illustrator to provide content for our web properties. I quickly expanded into front-end development, as I saw a need for our small team of 5. I took the initiative to learn more about web technology, and eventually became front-end developers over the course of my 2 year employment.
