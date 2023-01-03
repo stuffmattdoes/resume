@@ -1,5 +1,7 @@
 
 # Matthew J. Morrison
+📧 m.james.morrison00@gmail.com ·  🌎 https://github.com/stuffmattdoes
+
 ***Excellent Full Stack Developer from Richmond, Virginia with 10 years of experience and a focus on  front-end development and improving both user and developer experience.***
 
 ### ✅ What I'm looking for
@@ -30,11 +32,10 @@ I was hired as part of a team that enabled CarMax to sell cars online. So far I 
 	- Solely responsible for front-end
 
 - **Back-end responsibilities:**
-	- Build & maintain DotNet API
+	- Build & maintain DotNet API which aggregates numerous micro-services for a front-end app (which I call a BFF, or "back-end-for-front-end")
 	- Work with other internal teams to specify micro-service interfaces
 	- Monitor Azure Dev Ops for cost & uptime
 	- Not solely responsible
-
 #### 🎖 Notable achievements:
 - Converted two large (and somewhat legacy) front-end codebases to TypeScript to make development simpler and catch bugs before users do.
 - Primary instructor & curriculum contributor for all internal front-end development lessons at CarMax
@@ -45,7 +46,7 @@ I was hired as part of a team that enabled CarMax to sell cars online. So far I 
 
 ### Creative Engineer - *Purple, Rock, Scissors*
 ##### 📆 Mar 2015 - May 2017 📍 Orlando, FL
-At Purple, Rock, Scissors, I deigned, developed and maintained original web properties for our numerous clients - ranging from local restaurants to national healthcare providers and even major social media giants. These web properties were often custom dynamic websites built around Wordpress or Drupal. Over my tenure here, I shifted from half design & development to doing solely development as I had found my niche in solving technical problems. In addition to being a technical resource, I worked closely with my project managers and often directly assisted clients as a technical consultant. I excelled at handling shifting business requirements as well as working under pressure and meeting deadlines.
+At Purple, Rock, Scissors, I deigned, developed and maintained original web properties for our numerous clients - ranging from local restaurants to national healthcare providers and even major social media giants. These web properties were often custom dynamic websites built around Wordpress or Drupal. In addition to being a technical resource, I worked closely with my project managers and often directly assisted clients as a technical consultant. I excelled at handling shifting business requirements as well as working under pressure and meeting deadlines.
 
 #### 🎖 Notable achievements:
 - Designed, illustrated & developed email templates for LinkedIn's premium benefits - a campaign 
@@ -73,3 +74,6 @@ I was initially hired as an illustrator to provide content for our web propertie
 3. How do you decide which features to add to your product?
 4. What does career progression at your company look like?
 5. How do you implement employee feedback to improve your company?
+
+Thank you for taking the time to learn about me. I'm looking forward to returning the favor.
+I can most easily be reached via email at 📧 m.james.morrison00@gmail.com.
