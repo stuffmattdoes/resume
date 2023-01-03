@@ -63,5 +63,7 @@ I was initially hired as an illustrator to provide content for our web propertie
 
 ## 🫵 About You
 1. What is your company's purpose?
-2. How do you decide which features to add to your product?
-3. What does your collaborative and decision making process look like?
+2. What does your collaborative and decision making process look like?
+3. How do you decide which features to add to your product?
+4. What does career progression at your company look like?
+5. How do you implement employee feedback to improve the company?
