@@ -1,3 +1,4 @@
+<img style="width: 100px;" src="./matt_daddy.png">
 
 # Matthew J. Morrison
 📧 m.james.morrison00@gmail.com ·  🌎 https://github.com/stuffmattdoes
