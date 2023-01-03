@@ -12,6 +12,8 @@ I am not looking for a management position, nor to spend most of my time in meet
 
 ***If this is your team, perhaps we are not a good fit. 👋***
 
+***
+
 ## 📚 Experience
 
 ### Senior Software Engineer - *CarMax*
@@ -39,6 +41,8 @@ I was hired as part of a team that enabled CarMax to sell cars online. So far I 
 
 >**✍️ Skills:** TypeScript · React · Jest · C# · DotNet · Azure Dev Ops · Browserstack · Cypress · "micro-services"
 
+***
+
 ### Creative Engineer - *Purple, Rock, Scissors*
 ##### 📆 Mar 2015 - May 2017 📍 Orlando, FL
 At Purple, Rock, Scissors, I deigned, developed and maintained original web properties for our numerous clients - ranging from local restaurants to national healthcare providers and even major social media giants. These web properties were often custom dynamic websites built around Wordpress or Drupal. Over my tenure here, I shifted from half design & development to doing solely development as I had found my niche in solving technical problems. In addition to being a technical resource, I worked closely with my project managers and often directly assisted clients as a technical consultant. I excelled at handling shifting business requirements as well as working under pressure and meeting deadlines.
@@ -60,6 +64,8 @@ I was initially hired as an illustrator to provide content for our web propertie
 - Adopted & faithfully implemented design & development standards set forth by senior team members
     
 >**✍️ Skills:** Front-End Development · MySQL · PHP · Grunt.js · WordPress · JavaScript · Web Design
+
+***
 
 ## 🫵 About You
 1. What is your company's purpose?
