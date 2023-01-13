@@ -5,6 +5,8 @@
 
 ***Excellent Full Stack Developer from Richmond, Virginia with 10 years of experience and a focus on  front-end development and improving both user and developer experience.***
 
+>**✍️ Skills:** TypeScript · React · Full Stack Web Dev · E2E Testing
+
 ### ✅ What I'm looking for
 I'm looking to employ my decade of experience in web development as a lead engineer, navigating teams through both technical challenges and external demands. I seek a role where both code contribution and developer mentorship are necessary, as I enjoy technical solutions and coaching junior developers. Most importantly, I'm looking to push the web development industry forward by solving tough problems using things like *finite state machines* (I'm one of those guys!).
 
