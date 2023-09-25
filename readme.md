@@ -44,7 +44,7 @@ I was hired as part of a team that enabled CarMax to sell cars online. So far I 
 - Converted two large (and somewhat legacy) front-end codebases to TypeScript to make development simpler and catch bugs before users do.
 - Primary instructor & curriculum contributor for all internal front-end development lessons at CarMax
 
->**✍️ Skills:** TypeScript • React • Jest • C# • DotNet • Azure Dev Ops • Browserstack • Cypress • "micro-services"
+>**✍️ Skills:** TypeScript • React • Jest • C# • DotNet • Azure Dev Ops • Browserstack • Playwright • "micro-services"
 
 ***
 
