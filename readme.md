@@ -1,11 +1,11 @@
 <img style="width: 100px;" src="./matt_daddy.png">
 
 # Matthew J. Morrison
-📧 m.james.morrison00@gmail.com ·  🌎 https://github.com/stuffmattdoes
+📧 m.james.morrison00@gmail.com •  🌎 https://github.com/stuffmattdoes
 
 ***Excellent Full Stack Developer from Richmond, Virginia with 10 years of experience and a focus on  front-end development and improving both user and developer experience.***
 
->**✍️ Skills:** TypeScript · React · Full Stack Web Dev · E2E Testing
+>**✍️ Skills:** TypeScript • React • DotNet • Full Stack Web Dev • E2E Testing
 
 ### ✅ What I'm looking for
 I'm looking to employ my decade of experience in web development as a lead engineer, navigating teams through both technical challenges and external demands. I seek a role where both code contribution and developer mentorship are necessary, as I enjoy technical solutions and coaching junior developers. Most importantly, I'm looking to push the web development industry forward by solving tough problems using things like *finite state machines* (I'm one of those guys!).
@@ -44,7 +44,7 @@ I was hired as part of a team that enabled CarMax to sell cars online. So far I 
 - Converted two large (and somewhat legacy) front-end codebases to TypeScript to make development simpler and catch bugs before users do.
 - Primary instructor & curriculum contributor for all internal front-end development lessons at CarMax
 
->**✍️ Skills:** TypeScript · React · Jest · C# · DotNet · Azure Dev Ops · Browserstack · Cypress · "micro-services"
+>**✍️ Skills:** TypeScript • React • Jest • C# • DotNet • Azure Dev Ops • Browserstack • Cypress • "micro-services"
 
 ***
 
@@ -57,7 +57,7 @@ At Purple, Rock, Scissors, I deigned, developed and maintained original web prop
 - Convinced the entire development team to adopt a single git flow strategy across the organization. We switched projects frequently, so having standardized version control was vital.
 - Contributed automation scripts for project setup & development using task managers like gulp.js and virtual machines like vagrant - frequent personnel switches meant onboarding & project setup was a big time sink.
 
->**✍️ Skills:**  HTML · CSS · SASS · Javascript · JQuery · Vagrant · Wordpress · MySQL · PHP · LAMP/LEMP stack · UX/UI design · Gulp
+>**✍️ Skills:**  HTML • CSS • SASS • Javascript • JQuery • Vagrant • Wordpress • MySQL • PHP • LAMP/LEMP stack • UX/UI design • Gulp
 
 ### Front-End Designer & Developer - *Ascentus*
 ##### 📆 Feb 2013 - Feb 2015 📍 Orlando, FL
@@ -68,7 +68,7 @@ I was initially hired as an illustrator to provide content for our web propertie
 - Self-taught front-end development immediately upon hiring, began contributing on first month
 - Adopted & faithfully implemented design & development standards set forth by senior team members
     
->**✍️ Skills:** Front-End Development · MySQL · PHP · Grunt.js · WordPress · JavaScript · Web Design
+>**✍️ Skills:** Front-End Development • MySQL • PHP • Grunt.js • WordPress • JavaScript • Web Design
 
 ***
 
