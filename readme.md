@@ -3,7 +3,7 @@
 # Matthew J. Morrison
 📧 m.james.morrison00@gmail.com •  🌎 https://github.com/stuffmattdoes
 
-***Excellent Full Stack Developer from Richmond, Virginia with 10 years of experience and a focus on  front-end development and improving both user and developer experience.***
+***Excellent Full Stack Developer from Detroit, Michigan with 10+ years of experience and a focus on  front-end development and improving both user and developer experience.***
 
 >**✍️ Skills:** TypeScript • React • DotNet • Full Stack Web Dev • E2E Testing
 
