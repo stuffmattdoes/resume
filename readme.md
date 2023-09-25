@@ -53,7 +53,7 @@ I was hired as part of a team that enabled CarMax to sell cars online. So far I 
 At Purple, Rock, Scissors, I deigned, developed and maintained original web properties for our numerous clients - ranging from local restaurants to national healthcare providers and even major social media giants. These web properties were often custom dynamic websites built around Wordpress or Drupal. In addition to being a technical resource, I worked closely with my project managers and often directly assisted clients as a technical consultant. I excelled at handling shifting business requirements as well as working under pressure and meeting deadlines.
 
 #### 🎖 Notable achievements:
-- Designed, illustrated & developed email templates for LinkedIn's premium benefits - a campaign 
+- Designed, illustrated & developed email templates for LinkedIn's premium benefits - a campaign to convert free users to premium users
 - Convinced the entire development team to adopt a single git flow strategy across the organization. We switched projects frequently, so having standardized version control was vital.
 - Contributed automation scripts for project setup & development using task managers like gulp.js and virtual machines like vagrant - frequent personnel switches meant onboarding & project setup was a big time sink.
 
