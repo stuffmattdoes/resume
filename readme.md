@@ -40,6 +40,7 @@ I was hired as part of a team that enabled CarMax to sell cars online. So far I 
 	- Monitor Azure Dev Ops for cost & uptime
 	- Not solely responsible
 #### 🎖 Notable achievements:
+- Obtained patent (US-11170424-B1) for a feature made with my team that allowed a user to (theoretically) save any car across the web into their own MyCarMax account.
 - Converted two large (and somewhat legacy) front-end codebases to TypeScript to make development simpler and catch bugs before users do.
 - Primary instructor & curriculum contributor for all internal front-end development lessons at CarMax
 
